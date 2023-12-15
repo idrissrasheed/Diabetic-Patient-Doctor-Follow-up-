@@ -1,4 +1,4 @@
-# Patients Who Need a Doctor Followup Based on Their Diabetes Lab Reports. 
+#  Diabetes Diagnosis Analysis and Doctor Followup 
 
 A1C and glucose levels play vital roles in diagnosing and managing diabetes by providing insights into blood sugar levels over time, and doctors must communicate with patients who are categorized as pre-diabetic and diabetic for prevention and treatment. With this need in mind, I devised a SQL project that sources data from the National Health and Nutrition Examination Survey to analyze patients' A1C and fasting plasma glucose levels, diagnose patients with either non-diabetes, prediabetes, or diabetes, and notify doctors who need to follow up with patients who fall in the last two categories. 
 

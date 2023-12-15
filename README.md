@@ -1,7 +1,5 @@
 # Patients Who Need a Doctor Followup Based on Their Diabetes Lab Reports. 
 
-Diagnostic analysis for diabetes and pre-diabetes on 2,000+ patients using the National Health and Nutrition Examination Survey. 
-
 A1C and glucose levels play vital roles in diagnosing and managing diabetes by providing insights into blood sugar levels over time, and doctors must communicate with patients who are categorized as pre-diabetic and diabetic for prevention and treatment. With this need in mind, I devised a SQL project that sources data from the National Health and Nutrition Examination Survey to analyze patients' A1C and fasting plasma glucose levels, diagnose patients with either non-diabetes, prediabetes, or diabetes, and notify doctors who need to follow up with patients who fall in the last two categories. 
 
 ### A1C (Glycated Hemoglobin) Levels:
@@ -33,9 +31,9 @@ The main steps:
 3. **Data Manipulation and Analysis**:
    - Performing SQL operations on the database:
      - Full joining of the fasting glucose and ghb tables to create `lab_records`.
-     - Creating a new table `diabetes`, with columns for diagnosis and doctor follow-up based on specific A1C and glucose levels.
+     - Create a new table, `diabetes, ' with columns for diagnosis and doctor followup based on specific A1C and glucose levels.
   
 4. **Data Retrieval and Export**:
    - Executing SQL queries to retrieve data from the `diabetes` table.
    - Fetching data from SQL into Pandas DataFrame.
-   - Exporting the DataFrame to a CSV file named `diabetes_data.csv`.
+   - Exporting the DataFrame to a CSV file named `diabetes_data.csv.`

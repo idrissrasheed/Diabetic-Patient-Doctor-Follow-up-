@@ -11,10 +11,9 @@ A1C and glucose levels play vital roles in diagnosing and managing diabetes by p
   - Prediabetes: 5.7% to 6.4%
   - Diabetes: 6.5% or higher
 
-### Glucose Levels:
-- **Fasting Plasma Glucose (FPG)**:
-  - **Measure**: Glucose concentration in the blood after fasting for at least eight hours.
-  - **Diagnostic criteria**:
+### Fasting Plasma Glucose (FPG) Levels:
+- **Measure**: Glucose concentration in the blood after fasting for at least eight hours.
+- **Diagnostic criteria**:
     - Non-diabetic: Below 100 mg/dL
     - Prediabetes: 100 mg/dL to 125 mg/dL
     - Diabetes: 126 mg/dL or higher on two separate tests
